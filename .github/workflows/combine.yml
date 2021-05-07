@@ -1,4 +1,4 @@
-name: Combine Pull Requests
+- name: Combine Pull Requests
   # You may pin to the exact commit or the version.
   # uses: bobvanderlinden/combine-pull-requests@65ae1935a576349d8cc26af81a5169058ccda339
   uses: bobvanderlinden/combine-pull-requests@v3
