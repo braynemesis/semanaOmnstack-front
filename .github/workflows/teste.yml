@@ -26,4 +26,5 @@ jobs:
           # The author name of the merge commit
           author-name: dependabot
           # The author email of the merge commit
-          repo-token: ${{secrets.GITHUB_TOKEN}}
+          author-email: # optional, default is nobody@nobody
+          repo-token: ${{secrets.USER_TOKEN}}
