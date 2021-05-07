@@ -24,7 +24,7 @@ jobs:
           # The label to look for pull requests
           label: dependencies 
           # The author name of the merge commit
-          author-name: dependabot
+          author-name: # optional, default is nobody@nobody
           # The author email of the merge commit
           author-email: # optional, default is nobody@nobody
           repo-token: ${{secrets.USER_TOKEN}}
