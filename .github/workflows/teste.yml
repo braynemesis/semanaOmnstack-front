@@ -24,6 +24,6 @@ jobs:
           # The label to look for pull requests
           label: dependencies 
           # The author name of the merge commit
-          author-name: dependabot-preview
+          author-name: dependabot
           # The author email of the merge commit
           repo-token: ${{secrets.GITHUB_TOKEN}}
